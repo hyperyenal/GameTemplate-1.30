@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "397034840451",
+    "firebase_url": "https://gametemplate-1-30-default-rtdb.firebaseio.com",
+    "project_id": "gametemplate-1-30",
+    "storage_bucket": "gametemplate-1-30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397034840451:android:3d3d067b33410f341596b6",
+        "android_client_info": {
+          "package_name": "com.hyperyenal.gameTemplate_1_30"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397034840451-91kh6m3n9q4j3ktdstvgkp3ar42d0ktp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWpBAUuW5uoXCTRLy00C5YaW4BHF9EJ5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397034840451-91kh6m3n9q4j3ktdstvgkp3ar42d0ktp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
