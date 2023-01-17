@@ -11,8 +11,7 @@ public class FireBaseTests
 
     public static void DummyLogMessage()
     {
-        Firebase.Analytics.FirebaseAnalytics
-                .LogEvent("DummyLogEntry", "GameName", "GameTemplate_1.30");
+        //Firebase.Analytics.FirebaseAnalytics
+        //        .LogEvent("DummyLogEntry", "GameName", "GameTemplate_1.30");
     }
 }
-
